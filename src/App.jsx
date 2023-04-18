@@ -1,5 +1,6 @@
 import "./App.css";
 import Main from "./components/Main";
+import "@iconscout/react-unicons";
 
 function App() {
   return (
