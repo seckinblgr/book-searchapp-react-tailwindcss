@@ -1,0 +1,40 @@
+html{
+    overflow-x: hidden;
+}
+.glass {
+    
+    background: rgba(255, 255, 255, 0.4);
+    border-radius: 16px;
+    box-shadow: 0 4px 30px rgba(0, 0, 0, 0.7);
+    backdrop-filter: blur(20);
+    -webkit-backdrop-filter: blur(20);
+    border: 1px solid rgba(255, 255, 255, 0.2);
+    
+}
+
+
+.modal{
+    
+    padding: 10%;
+    height: 800px;
+    width: 100%;
+    position: fixed;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+        
+  
+}
+
+.left{
+    height: 500px;
+   
+}
+.right{
+   
+    height: 500px;
+overflow: scroll;
+}
