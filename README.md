@@ -10,6 +10,7 @@ https://search-book-sb.netlify.app/
  * Axios
  * React
  * IconScout
+ * Tailwindcss
  
  ### Api
  GoogleBookApi
