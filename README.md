@@ -1,7 +1,22 @@
 # book-searchapp-react-tailwindcss
 
-I use tailwindcss 
+## Live Preview
+You can experience here ,
 
-I used  api request  for axios
+https://search-book-sb.netlify.app/
 
-Api is GoogleBookApi
+ ## Used library
+ 
+ * Axios
+ * React
+ * IconScout
+ 
+ ### Api
+ GoogleBookApi
+ 
+ 
+ 
+ ## How To Install
+ 
+1. npm install
+2. npm run dev
